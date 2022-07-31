@@ -15,7 +15,10 @@
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
 
 
-![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=garciarodrigue&show_icons=true)
+![garciarodrigue github stats](https://github-readme-stats.vercel.app/api?username=garciarodrigue&show_icons=true)
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=garciarodrigue.visitor-badge)
 
 <!--
 **garciarodrigue/garciarodrigue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
