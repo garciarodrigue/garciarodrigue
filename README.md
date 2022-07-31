@@ -2,6 +2,8 @@
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h2>
 
+<a href="https://www.facebook.com/TenshiKiller/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat -square&logo=facebook&logoColor=blanco" alt="Facebook"></a>
+
 <!--
 **garciarodrigue/garciarodrigue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
