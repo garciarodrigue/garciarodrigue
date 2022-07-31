@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi there 👻
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h2>
 
+<i>Sígueme:</i><br>
 <a href="https://www.facebook.com/TenshiKiller/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat -square&logo=facebook&logoColor=blanco" alt="Facebook"></a>
-<a href="https://open.spotify.com/user/31qhidmjm2tvh2iahlvvzfrqxif4?si=iSEKuf61Q16nLFY316xk3g&utm_source=copy-link" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style =cuadrado plano&logo=spotify&logoColor=blanco" alt="Spotify"></a>
+
 <!--
 **garciarodrigue/garciarodrigue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
