@@ -37,6 +37,11 @@
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=garciarodrigue.visitor-badge)
 
+
+<p align="center">
+<img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" />
+</p>
+
 <!--
 **garciarodrigue/garciarodrigue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
