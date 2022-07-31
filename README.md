@@ -5,6 +5,14 @@
 <i>Sígueme:</i><br>
 <a href="https://www.facebook.com/TenshiKiller/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat -square&logo=facebook&logoColor=blanco" alt="Facebook"></a>
 <a href="https://open.spotify.com/playlist/6faZPdf2MhmGiV7wRpqJCZ?si=LNw92-XDQo-kuy-f_BGQag&utm_source=copy-link" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+
+### Languages and Tools:
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
 <!--
 **garciarodrigue/garciarodrigue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
