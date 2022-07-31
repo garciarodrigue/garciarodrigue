@@ -4,7 +4,8 @@
 
 <i>Sígueme:</i><br>
 <a href="https://www.facebook.com/TenshiKiller/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat -square&logo=facebook&logoColor=blanco" alt="Facebook"></a>
-
+Facebook"></a>
+<a href="https://open.spotify.com/playlist/6faZPdf2MhmGiV7wRpqJCZ?si=LNw92-XDQo-kuy-f_BGQag&utm_source=copy-link" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <!--
 **garciarodrigue/garciarodrigue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
