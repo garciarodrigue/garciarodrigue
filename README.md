@@ -32,7 +32,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=garciarodrigue&show_icons=true&theme=synthwave" alt="garciarodrigue :: Estadísticas de mi perfil" /></ p>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=garciarodrigue.visitor-badge)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=garciarodrigue.visitor-badge)
 
 
 <p align="center">
