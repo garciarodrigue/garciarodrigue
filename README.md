@@ -4,7 +4,6 @@
 
 
 <h2>𝕰𝖘𝖕𝖊𝖗𝖔 𝖙𝖊 𝖌𝖚𝖘𝖙𝖊𝖓 𝖒𝖎𝖘 𝖕𝖗𝖔𝖞𝖊𝖈𝖙𝖔𝖘 <𝚌𝚘𝚍𝚎𝚛𝚜/>!
-<iframe src="https://gifer.com/embed/WME8" width=70 height=60.60 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">a través de GIFER</a></p>
 </h2>
 
 <i>𝕾𝖎𝖌𝖚𝖊𝖒𝖊:</i><br>
