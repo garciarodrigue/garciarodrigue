@@ -31,7 +31,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=garciarodrigue&show_icons=true&theme=synthwave" alt="garciarodrigue :: Estadísticas de mi perfil" /></ p>
 
-![Visitor](https://visitor-badge.glitch.me/badge?page_id=garciarodrigue.visitor-badge)
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fgarciarodrigue"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fgarciarodrigue&countColor=%2337d67a&style=flat-square&labelStyle=lower" /></a>
 
 
 <p align="center">
